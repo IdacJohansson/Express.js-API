@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import axios from "axios";
-import PinocchioImage from "./components/pinocchioImage";
+import PinocchioImage from "./components/PinocchioImage";
 import Card from "./components/Card";
 
 interface Mugshot {
