@@ -1,5 +1,3 @@
-import React from "react";
-
 import Pinocchio from "../assets/pinocchio.png";
 
 const PinocchioImage = () => {

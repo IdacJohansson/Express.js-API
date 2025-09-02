@@ -20,8 +20,6 @@ function App() {
     setMugshotArr(response.data.mugshot);
   };
 
-  // call the function
-
   useEffect(() => {
     fetchAPI();
   }, []);
