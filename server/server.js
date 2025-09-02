@@ -1,16 +1,14 @@
 const express = require("express");
 const app = express();
 
-// cors <3 client
-
 const cors = require("cors");
 const corsOptions = {
-  origin: ["http://localhost:5173"],
+  origin: ["http://localhost:5174"],
 };
 
 app.use(cors(corsOptions));
 
-// routes
+// route
 
 app.get("/api", (req, res) => {
   res.json({

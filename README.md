@@ -8,3 +8,9 @@ Build a simple Express.js app that shows data through an API. This will help you
 - Handle requests 
 - Return a JSON response 
 - Test the server in your browser 
+
+***
+
+###### To start:
+npm run dev / Client
+node server or nodemon server / Server
