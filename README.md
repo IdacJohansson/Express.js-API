@@ -11,6 +11,6 @@ Build a simple Express.js app that shows data through an API. This will help you
 
 ***
 
-###### To start:
-npm run dev / Client
-node server or nodemon server / Server
+##### To start:
+- npm run dev / Client
+- node server or nodemon server / Server
